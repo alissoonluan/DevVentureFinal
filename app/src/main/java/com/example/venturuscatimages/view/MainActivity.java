@@ -11,7 +11,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.venturuscatimages.R;
 import com.example.venturuscatimages.adapter.CatAdapter;
 import com.example.venturuscatimages.databinding.ActivityMainBinding;
 import com.example.venturuscatimages.model.Cat;
